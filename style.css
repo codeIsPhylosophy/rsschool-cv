@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    
+}
+main {
+    background-color: antiquewhite;
+    border-radius: 20px ;
+    text-align: center;
+ 
+}
+footer {
+    background-color: darkolivegreen;
+    position: fixed;
+    top: 95%;
+    width: 612px;
+    text-align: center;
+}
